@@ -1,0 +1,25 @@
+﻿songName:Volverá mi voz
+Album:Viento Soy
+Artists:1:Gaston Chatelet
+numTracks:3
+
+vol1:70
+pan1:-30
+eqF1:0.48
+versions1:1
+instrumento1: Guitarra Acustica 1
+instrument1: Acustic Guitar 1
+
+vol2:70
+pan2:30
+eqF2:0.5
+versions2:1
+instrumento2: Guitarra Acustica 2
+instrument2: Acustic Guitar 2
+
+vol3:50
+pan3:0
+eqF3:0.45
+versions3:1
+instrumento3: Voz
+instrument3: Vocals
