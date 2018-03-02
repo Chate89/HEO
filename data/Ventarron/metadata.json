@@ -1,0 +1,74 @@
+songName:Ventarron
+Album:Viento Soy
+Artists:2:Gaston Chatelet:Cesar Altamirano
+numTracks:10
+
+vol1:54
+pan1:-3
+eqF1:0.48
+versions1:5
+instrumento1: Voz
+instrument1: Vocal
+
+vol2:50
+pan2:25
+eqF2:0.5
+versions2:5
+instrumento2: Guitarra Eléctrica 1
+instrument2: Electric Guitar 1
+
+vol3:50
+pan3:-12
+eqF3:0.45
+versions3:5
+instrumento3: Guitarra Eléctrica 2
+instrument3: Electric Guitar 2
+
+vol4:50
+pan4:11
+eqF4:0.15
+versions4:5
+instrumento4: Guitarra Eléctrica 3
+instrument4: Electric Guitar 3
+
+vol5:56
+pan5:7
+eqF5:0.2
+versions5:5
+instrumento5: Guitarra Eléctrica 4
+instrument5: Electric Guitar 4
+
+vol6:64
+pan6:-13
+eqF6:0.65
+versions6:5
+instrumento6: Teclado
+instrument6: Keyboard
+
+vol7:72
+pan7:-20
+eqF7:0.4
+versions7:3
+instrumento7: FX and Sequencer
+instrument7: FX and Sequencer
+
+vol8:74
+pan8:-5
+eqF8:0.15
+versions8:4
+instrumento8: Pad
+instrument8: Pad
+
+vol9:50
+pan9:12
+eqF9:0.75
+versions9:5
+instrumento9: Guitarra Acústica
+instrument9: Acoustic Guitar
+
+vol10:67
+pan10:7
+eqF10:0.6
+versions10:3
+instrumento10: Bajo y Batería
+instrument10: Drumm and Bass
