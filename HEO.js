@@ -1,5 +1,5 @@
 var songList = ["Ventarron", "Volvera"];
-var songName = songList[1];
+var songName = songList[0];
 // internal canvas
 var topy, bottom, lside, rside;
 var bossfader = 255;
