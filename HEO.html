@@ -1,0 +1,42 @@
+<html>
+<title> HEO
+</title>
+<head>
+  <meta charset="utf-8">
+  <script lenguage="javascript" type="text/javascript" src="libraries/p5.js"></script>
+  <script lenguage="javascript" type="text/javascript" src="libraries/p5.dom.js"></script>
+  <script lenguage="javascript" type="text/javascript" src="libraries/p5.sound.chate89.js"></script>
+  <script lenguage="javascript" type="text/javascript" src="HEO.js"></script>
+  <script lenguage="javascript" type="text/javascript" src="shape.js"></script>
+  <script lenguage="javascript" type="text/javascript" src="snow.js"></script>
+  <script lenguage="javascript" type="text/javascript" src="info.js"></script>
+  <script lenguage="javascript" type="text/javascript" src="master.js"></script>
+  <link rel="shortcut icon" href="icono.ico">
+  <style>
+    body{
+      margin: 0;
+    }
+  </style>
+</head>
+<body bgcolor="#000000" onload="load()">
+  <script lenguage="javascript" type="text/javascript">
+    function load(){
+      document.body.addEventListener("wheel", zoomShortcut); //add the event
+    }
+
+    function zoomShortcut(e){
+      if(e.ctrlKey){            //[ctrl] pressed?
+        event.preventDefault();  //prevent zoom
+        if(e.deltaY<0){        //scrolling up?
+                                //do something..
+          return false;
+        }
+        if(e.deltaY>0){        //scrolling down?
+                                //do something..
+          return false;
+        }
+      }
+    }
+  </script>
+</body>
+</html>
