@@ -1,5 +1,5 @@
-var songList = ["Ventarron", "Volvera"];
-var songName = songList[0];
+var songList = ["Ventarron", "Volvera", "ComeTogether"];
+var songName = songList[2];
 // internal canvas
 var topy, bottom, lside, rside;
 var bossfader = 255;
@@ -13,7 +13,7 @@ var anyOver = 0;
 var track = [];
 var inter;
 var loadcomp = 0;
-var endTime = 205;
+var endTime = 260;
 var amp = [];
 var porcent = 0;
 var waveimg = [];
@@ -321,6 +321,8 @@ function progress9(evt) {
 }
 
 function draw() {
+  endTime = track[0].duration();
+
   background (colours[colsel].maincol1, colours[colsel].maincol2, colours[colsel].maincol3);
   noStroke();
 
