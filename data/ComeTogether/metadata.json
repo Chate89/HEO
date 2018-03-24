@@ -1,0 +1,46 @@
+﻿songName:Come Together
+Album:Abbey Road
+Artists:1:The Beatles
+numTracks:6
+
+vol1:54
+pan1:25
+eqF1:0.48
+versions1:1
+instrumento1: Batería
+instrument1: Drums
+
+vol2:69
+pan2:0
+eqF2:0.5
+versions2:1
+instrumento2: Bajo
+instrument2: Bass
+
+vol3:83
+pan3:-30
+eqF3:0.45
+versions3:1
+instrumento3: Guitarra Eléctrica 1
+instrument3: Electric Guitar 1
+
+vol4:50
+pan4:20
+eqF4:0.15
+versions4:1
+instrumento4: Guitarra Eléctrica 2
+instrument4: Electric Guitar 2
+
+vol5:56
+pan5:-10
+eqF5:0.2
+versions5:1
+instrumento5: Teclado
+instrument5: Keyboard
+
+vol6:64
+pan6:-0
+eqF6:0.65
+versions6:1
+instrumento6: Voz
+instrument6: Vocals
